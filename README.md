@@ -1,6 +1,6 @@
 # Stock Search Engine
 
-Stock Search, Analysis and Visualization
+Stock Search, Analysis and Visualization Application
 
 ## Getting Started
 
