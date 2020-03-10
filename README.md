@@ -1,4 +1,4 @@
-# Stock Search Engine
+# Stock Screener
 
 Stock Search, Analysis and Visualization Application
 
